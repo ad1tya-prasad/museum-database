@@ -17,7 +17,7 @@ Akshpreet Singh, 30129354, akshpreet.singh@ucalgary.ca
 Designing the EER diagram along with a short description of the design and any assumptions made. Also mapping the EER Diagram into a relational schema. Assisted in creating and implementing the python application of the project. This includes creating multiple functions and pair programming to create the other functions. This also includes debugging the python application and checking every function for functionality.
 
 ### Aditya
-Creating and implementing the python application part of the project. Debugging the python application and testing possible input paths to make sure functions work.
+Creating and implementing the python application part of the project. Debugging the python application and testing possible input paths to make sure functions work. Assisting with the various SQL portions of the project and integration into the python code.
 
 ### Rohil:
 Queries: 
