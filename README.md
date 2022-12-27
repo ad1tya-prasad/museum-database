@@ -1,7 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9441671&assignment_repo_type=AssignmentRepo)
-# Museum-Project
 
-**Group 25, The Boys**
+# Museum-Project
+This project involved the design and implementation of a database application for an art museum. The application included an Entity-Relationship (EER) diagram, a relational data model, SQL queries, and a Python interface for maintenance, data entry, and browsing. The application also had a login system to identify user type and access level, with different functionality available based on user privileges. The art section of the database allowed for the lookup, insertion, update, and deletion of art pieces, as well as the ability for users to browse the collection.
+
 Aryan Karadia, 30140288, aryan.karadia@ucalgary.ca 
 
 Aditya Prasad, 30148859, aditya.prasad@ucalgary.ca 
