@@ -41,6 +41,7 @@ Created and populated the database. Wrote the following Queries with Rohil:
 7) A deletion operation with any necessary triggers
 
 ## Notes
+
 To initially start this application, you have two credentials:
 ### Username: Administrator
 ### Password: password
